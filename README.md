@@ -1,5 +1,3 @@
-# CurrentAffairSummerizer-
-ML project: Automate Current Affairs Summarization Using ML 
 # News Summarizer
 
 This is a simple Flask web application that summarizes news articles. The app extracts text from a provided news URL and generates a summary using a machine learning model.
